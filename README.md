@@ -1,6 +1,6 @@
 # name of non-profit
 
-{One sentence description of the project}
+Constraint-based volunteer matching and adaptive scheduling platform for SLCEF.
 
 ## Table of Contents
 
@@ -13,7 +13,9 @@
 
 ### Purpose
 
-{Short paragraph description of the non-profit mission and the purpose of this project. Who will this project help, why is it necessary. Impact of the project.}
+San Luis Coastal Education Foundation supports educational opportunities and enrichment programs across schools in San Luis Obispo County. Coordinating volunteers across multiple school sites currently requires extensive manual scheduling, making it difficult to accommodate changing availability, transportation constraints, and program needs without disrupting existing assignments.
+
+This project aims to streamline volunteer coordination by reducing administrative workload, improving scheduling flexibility, and ensuring consistent volunteer coverage so that more students can benefit from the foundation's educational programs.
 
 ### Team
 
@@ -22,7 +24,7 @@ The {non-profit name} team consists of {#} Cal Poly students. Over the course of
 - [First Last](https://www.linkedin.com/) - Project Manager
 - [First Last](https://www.linkedin.com/) - Designer
 - [Vincent Le](https://www.linkedin.com/in/vincentrle) - Tech Lead
-- [First Last](https://www.linkedin.com/) - Tech Lead
+- [Chloe Low](https://www.linkedin.com/in/chloe-is-low/) - Tech Lead
 - [First Last](https://www.linkedin.com/) - Software Developer
 
 ## Getting Started And Contributing
