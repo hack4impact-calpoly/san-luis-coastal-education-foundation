@@ -19,7 +19,7 @@ This project aims to streamline volunteer coordination by reducing administrativ
 
 ### Team
 
-The {non-profit name} team consists of {#} Cal Poly students. Over the course of about 9 months, we worked as a team to deploy this web application. The team members are listed below:
+The San Luis Coastal Education Foundation team consists of 15 Cal Poly students. Over the course of about 9 months, we worked as a team to deploy this web application. The team members are listed below:
 
 - [First Last](https://www.linkedin.com/) - Project Manager
 - [First Last](https://www.linkedin.com/) - Designer
