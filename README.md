@@ -27,6 +27,8 @@ The San Luis Coastal Education Foundation team consists of 15 Cal Poly students.
 - [Chloe Low](https://www.linkedin.com/in/chloe-is-low/) - Tech Lead
 - [First Last](https://www.linkedin.com/) - Software Developer
 
+- [Dorsey Campbell](https://www.linkedin.com/dorseycampbell) - Software Developer
+
 ## Getting Started And Contributing
 
 Visit [getting-started.md](docs/getting-started.md) on info for how to set up this repo.
