@@ -12,9 +12,9 @@ const links = [
 export default function StaffLayout({ children }: { children: React.ReactNode }) {
   return (
     <div>
-      <header className="p-4 text-xl font-bold">SLO Coastal Staff</header>
+      <header>SLO Coastal Staff</header>
       <Navbar links={links} />
-      <main className="mx-auto max-w-5xl p-6">{children}</main>
+      <main>{children}</main>
     </div>
   );
 }

@@ -13,22 +13,15 @@ export default function Navbar({ links }: { links: NavLink[] }) {
   const isActive = (href: string) => pathname === href || (href !== "/staff" && pathname.startsWith(href + "/"));
 
   return (
-    <nav className="flex gap-4 border-b p-4">
+    <nav className="flex gap-4">
       {/* one link per item, highlighted if active */}
       {links.map((link) => (
-        <Link
-          key={link.href}
-          href={link.href}
-          className={isActive(link.href) ? "font-bold underline" : "text-gray-600"}
-        >
+        <Link key={link.href} href={link.href} className={isActive(link.href) ? "font-bold" : ""}>
           {link.label}
         </Link>
       ))}
 
-      {/* ml-auto pushes log out to the right */}
-      <Link href="/login" className="ml-auto text-gray-600">
-        Log out
-      </Link>
+      <Link href="/login">Log out</Link>
     </nav>
   );
 }
