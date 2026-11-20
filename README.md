@@ -23,10 +23,10 @@ This project aims to streamline volunteer coordination by reducing administrativ
 
 The San Luis Coastal Education Foundation team consists of 15 Cal Poly students. Over the course of about 9 months, we worked as a team to deploy this web application. The team members are listed below:
 
-- [First Last](https://www.linkedin.com/) - Project Manager
+- [Zoey Lim](https://www.linkedin.com/in/zoey-s-lim) - Project Manager
 - [First Last](https://www.linkedin.com/) - Designer
+- [Vincent Le](https://www.linkedin.com/in/vincentrle) - Tech Lead
 - [Chloe Low](https://www.linkedin.com/in/chloe-is-low/) - Tech Lead
-- [First Last](https://www.linkedin.com/) - Tech Lead
 - [First Last](https://www.linkedin.com/) - Software Developer
 
 ## Getting Started And Contributing
