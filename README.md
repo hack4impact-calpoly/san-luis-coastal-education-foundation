@@ -11,6 +11,8 @@ Constraint-based volunteer matching and adaptive scheduling platform for SLCEF.
 
 ## Overview
 
+A volunteer management platform for San Luis Coastal Education Foundation (SLCEF) that automates volunteer matching for Cal Poly’s College Corps students across 15 school programs based on availability, location, transportation, and preferences. Features constraint-based scheduling, minimal-disruption rescheduling, and an admin dashboard for managing placements, volunteer information, and program coverage.
+
 ### Purpose
 
 San Luis Coastal Education Foundation supports educational opportunities and enrichment programs across schools in San Luis Obispo County. Coordinating volunteers across multiple school sites currently requires extensive manual scheduling, making it difficult to accommodate changing availability, transportation constraints, and program needs without disrupting existing assignments.
