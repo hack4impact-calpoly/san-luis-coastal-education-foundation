@@ -1,3 +1,5 @@
-export default function Page() {
-  return <h1>Scheduling</h1>;
+import ScheduleDraft from "@/components/ScheduleDraft";
+
+export default function SchedulingPage() {
+  return <ScheduleDraft />;
 }
